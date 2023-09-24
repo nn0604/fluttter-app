@@ -1,6 +1,14 @@
+---
+name: Issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
 
 ---
-title: "[커밋 타입] 제목"
+
+---
+title: "[커밋 타입] 제목" (#이슈번호)
 - [fix]: 버그 /  [feat]: 구현할 기능 / [test]: 테스트 등
 ---
 
